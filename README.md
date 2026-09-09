@@ -2,6 +2,9 @@
 
 This repo walks through NumPy basics and demos.
 
+## Installation
+pip install -r requirements.txt (or) pip install numpy
+
 ## Usefull links
 - [Credits - Keith Galli](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 - [Other Git Repo](https://github.com/KeithGalli/NumPy/tree/master)
